@@ -7,7 +7,7 @@ K-Mean Clustering algorithm:
 To segment the data into distinct groups or clusters, we have performed K-Means clustering by choosing an optimal value of k, which is the no of cluster determined by the elbow method.
 
 # Results
-These results provide the centroid values of each cluster after K-Meas algorithm is applied to the dataset. The three clusters created are Cluster 0, Cluster 1 and Cluster 2.
+The results provide the centroid values of each cluster after K-Meas algorithm is applied to the dataset. The three clusters created are Cluster 0, Cluster 1 and Cluster 2.
 
 Income:
 Cluster 0 has average income of about $ 37816.80  and Cluster 1 has the highest income of about $73960.50 whereas income of Cluster 2 falls in the average range of around $67717.77.
@@ -43,7 +43,6 @@ Cluster 1: 54.91 % are educated individuals
 Cluster 2: 34.62 % are educated individuals
 
 These insights provide us the characteristics of each cluster and helps us to understand the behaviors and features of the customers falling inside each cluster.
-
 # Business Insights
 Insights on Cluster 0 customers:
 These customers have Medium Income, moderate no. of children and spend moderate amount of money to buy products especially wines. This group could be targeted by the marketing team with a mix of premium and budget-friendly products. This group might be interested in children products as well as adult products since the no. of children is moderate.
