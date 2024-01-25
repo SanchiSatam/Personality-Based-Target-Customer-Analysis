@@ -3,7 +3,7 @@ The primary objective of this project is to delve into the sophisticated space o
 By focusing on the detailed analysis of client personalities, the project works to unravel patterns and behaviors that inform the creation of tailored marketing strategies.
 
 # Model Development:
-K-Mean Clustering algorithm
+K-Mean Clustering algorithm:
 To segment the data into distinct groups or clusters, we have performed K-Means clustering by choosing an optimal value of k, which is the no of cluster determined by the elbow method.
 
 # Results
